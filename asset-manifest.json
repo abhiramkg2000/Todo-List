@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhiramkg2000.github.io/csb-c6jdl/static/css/main.ffc3b221.chunk.css",
+    "main.js": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/main.9beffce2.chunk.js",
+    "main.js.map": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/main.9beffce2.chunk.js.map",
+    "runtime-main.js": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/runtime-main.80f99022.js",
+    "runtime-main.js.map": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/runtime-main.80f99022.js.map",
+    "static/js/2.030ef7f1.chunk.js": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/2.030ef7f1.chunk.js",
+    "static/js/2.030ef7f1.chunk.js.map": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/2.030ef7f1.chunk.js.map",
+    "index.html": "https://abhiramkg2000.github.io/csb-c6jdl/index.html",
+    "static/css/main.ffc3b221.chunk.css.map": "https://abhiramkg2000.github.io/csb-c6jdl/static/css/main.ffc3b221.chunk.css.map",
+    "static/js/2.030ef7f1.chunk.js.LICENSE.txt": "https://abhiramkg2000.github.io/csb-c6jdl/static/js/2.030ef7f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80f99022.js",
+    "static/js/2.030ef7f1.chunk.js",
+    "static/css/main.ffc3b221.chunk.css",
+    "static/js/main.9beffce2.chunk.js"
+  ]
+}
